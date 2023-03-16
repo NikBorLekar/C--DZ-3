@@ -1,0 +1,15 @@
+E:\Прочее\c#\dz3\task19\bin\Debug\net7.0\task19.exe
+E:\Прочее\c#\dz3\task19\bin\Debug\net7.0\task19.deps.json
+E:\Прочее\c#\dz3\task19\bin\Debug\net7.0\task19.runtimeconfig.json
+E:\Прочее\c#\dz3\task19\bin\Debug\net7.0\task19.dll
+E:\Прочее\c#\dz3\task19\bin\Debug\net7.0\task19.pdb
+E:\Прочее\c#\dz3\task19\obj\Debug\net7.0\task19.csproj.AssemblyReference.cache
+E:\Прочее\c#\dz3\task19\obj\Debug\net7.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+E:\Прочее\c#\dz3\task19\obj\Debug\net7.0\task19.AssemblyInfoInputs.cache
+E:\Прочее\c#\dz3\task19\obj\Debug\net7.0\task19.AssemblyInfo.cs
+E:\Прочее\c#\dz3\task19\obj\Debug\net7.0\task19.csproj.CoreCompileInputs.cache
+E:\Прочее\c#\dz3\task19\obj\Debug\net7.0\task19.dll
+E:\Прочее\c#\dz3\task19\obj\Debug\net7.0\refint\task19.dll
+E:\Прочее\c#\dz3\task19\obj\Debug\net7.0\task19.pdb
+E:\Прочее\c#\dz3\task19\obj\Debug\net7.0\task19.genruntimeconfig.cache
+E:\Прочее\c#\dz3\task19\obj\Debug\net7.0\ref\task19.dll
